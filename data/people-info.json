@@ -1,0 +1,264 @@
+{
+  "results": [{
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "alvarino",
+      "last": "mendes"
+    },
+    "location": {
+      "street": "6641 rua santos dumont ",
+      "city": "belford roxo",
+      "state": "maranhão",
+      "postcode": 52575,
+      "coordinates": {
+        "latitude": "-69.1349",
+        "longitude": "-102.8305"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "alvarino.mendes@example.com",
+    "login": {
+      "uuid": "197ab157-ab59-4d15-bac2-ee2fc2b84ceb",
+      "username": "smalldog928",
+      "password": "peaches",
+      "salt": "PStJ1dwC",
+      "md5": "7f02841ab300b5c9b47e8c9a92b23789",
+      "sha1": "db74ed62e76d624c4e45435b31d30e198ba4ec90",
+      "sha256": "bbea29267e454639615d452f8f0864aaf95c7a463badecfaf83afe371ef85c9c"
+    },
+    "dob": {
+      "date": "1993-10-11T20:08:28Z",
+      "age": 24
+    },
+    "registered": {
+      "date": "2005-02-28T15:01:18Z",
+      "age": 13
+    },
+    "phone": "(71) 7528-9721",
+    "cell": "(43) 6044-4758",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/95.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+    },
+    "nat": "BR"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "lidório",
+      "last": "da conceição"
+    },
+    "location": {
+      "street": "6943 avenida da legalidade",
+      "city": "coronel fabriciano",
+      "state": "amazonas",
+      "postcode": 24767,
+      "coordinates": {
+        "latitude": "-42.0841",
+        "longitude": "-130.1886"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "lidório.daconceição@example.com",
+    "login": {
+      "uuid": "64a0676c-8d10-493e-b042-2f4ccce1a184",
+      "username": "lazyelephant672",
+      "password": "amsterda",
+      "salt": "7qWXW3fN",
+      "md5": "514ace7d5ae1a83e2fd5b3f896c94cc5",
+      "sha1": "a221ff44a94a7785237fbddc1a36131c5b6c0017",
+      "sha256": "e9494e1c3b8ffaa9b8548d55ae1daa8c51af6a80de5bd05175cc6ced21d4db4c"
+    },
+    "dob": {
+      "date": "1995-10-30T16:32:28Z",
+      "age": 22
+    },
+    "registered": {
+      "date": "2005-11-20T11:52:55Z",
+      "age": 12
+    },
+    "phone": "(48) 4481-6959",
+    "cell": "(90) 0826-6658",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/53.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    },
+    "nat": "BR"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "penha",
+      "last": "monteiro"
+    },
+    "location": {
+      "street": "9536 rua sete de setembro ",
+      "city": "jandira",
+      "state": "pernambuco",
+      "postcode": 94556,
+      "coordinates": {
+        "latitude": "24.5327",
+        "longitude": "168.7869"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "penha.monteiro@example.com",
+    "login": {
+      "uuid": "387e77e3-ae8e-4e11-a499-a8e0fc9c4fb7",
+      "username": "tinybutterfly113",
+      "password": "seahawks",
+      "salt": "oEzTnVHg",
+      "md5": "1e98dfca7595fa1db54631c6818c98af",
+      "sha1": "827729c6399fc75bb7610ac6a21d9072b13bf3ff",
+      "sha256": "544c8205654ece74d9c94b041fec8d5a3d568e8897da0e5759066d773985523c"
+    },
+    "dob": {
+      "date": "1964-07-01T19:35:05Z",
+      "age": 54
+    },
+    "registered": {
+      "date": "2004-01-25T19:28:27Z",
+      "age": 14
+    },
+    "phone": "(05) 5010-8574",
+    "cell": "(25) 7583-6837",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/2.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+    },
+    "nat": "BR"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "prudêncio",
+      "last": "gonçalves"
+    },
+    "location": {
+      "street": "7189 rua espirito santo ",
+      "city": "teresópolis",
+      "state": "mato grosso",
+      "postcode": 34660,
+      "coordinates": {
+        "latitude": "17.0210",
+        "longitude": "158.2275"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "prudêncio.gonçalves@example.com",
+    "login": {
+      "uuid": "376b3c81-ce10-4610-8890-21e9c738b9d5",
+      "username": "bluerabbit163",
+      "password": "silence",
+      "salt": "EqSA1v79",
+      "md5": "e48754a84f8aef5b983d059861ad8208",
+      "sha1": "8e2c58e92ef1139bc6f9c2e177a9aa1ccbc6e6cb",
+      "sha256": "813be7a64690e25bf05364f494cf2e9948a509d69d8fc78b38b3efc8d68b622f"
+    },
+    "dob": {
+      "date": "1986-02-11T12:03:19Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2016-03-21T10:37:37Z",
+      "age": 2
+    },
+    "phone": "(74) 8556-1182",
+    "cell": "(88) 7673-4082",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/82.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+    },
+    "nat": "BR"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "nemésio",
+      "last": "da rocha"
+    },
+    "location": {
+      "street": "3014 rua sete de setembro ",
+      "city": "colatina",
+      "state": "amapá",
+      "postcode": 15753,
+      "coordinates": {
+        "latitude": "29.8475",
+        "longitude": "130.5938"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "nemésio.darocha@example.com",
+    "login": {
+      "uuid": "6b21c89b-5e64-474b-ad5f-fc3c1cddb7d8",
+      "username": "brownsnake447",
+      "password": "head",
+      "salt": "UrWBFHI9",
+      "md5": "48e7069b1e0e1f8b62b56e026b23e660",
+      "sha1": "3fad393b15b064cb536272b37c23e910e699c249",
+      "sha256": "6c150937423b3190a02019c07cc2a5fbb3962efc07ba3f5cbd22a970469f5cf7"
+    },
+    "dob": {
+      "date": "1988-09-05T01:56:51Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2007-12-08T19:25:04Z",
+      "age": 10
+    },
+    "phone": "(36) 3832-2539",
+    "cell": "(42) 2170-9466",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/51.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+    },
+    "nat": "BR"
+  }],
+  "info": {
+    "seed": "3df587ff7605f691",
+    "results": 5,
+    "page": 1,
+    "version": "1.2"
+  }
+}
