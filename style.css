@@ -3,17 +3,22 @@
   margin: 0;
 }
 
-.person {
+.people {
   display: grid;
   grid-template-columns: repeat(2, 50%);
   grid-gap: 1em;
 }
 
-.person > div {
+.people > div {
   background: #eee;
   padding: 1em;
 }
 
-.person > div:nth-child(even) {
+.people > div:nth-child(even) {
   background: #ddd;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: 25% 75%;
 }
