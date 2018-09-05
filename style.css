@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  grid-gap: 1em;
+}
+
+.person > div {
+  background: #eee;
+  padding: 1em;
+}
+
+.person > div:nth-child(even) {
+  background: #ddd;
+}
