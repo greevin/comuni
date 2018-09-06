@@ -4,7 +4,8 @@ const Person = ({name, location, picture, email, login}) => (
       <img src={picture.large} />
     </div>
     <div className="info">
-      <p>{name.first} {name.last} | @{login.username}</p>
+      <h1>{name.first} {name.last}</h1>
+      <p>@{login.username}</p>
       <p>{location.city} - {location.state}</p>
       <p>{email}</p>
     </div>

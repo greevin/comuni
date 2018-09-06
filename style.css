@@ -23,3 +23,7 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
+
+.person .info :nth-child(odd) {
+  text-transform: capitalize;
+}
