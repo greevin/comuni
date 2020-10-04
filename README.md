@@ -5,3 +5,9 @@
 * [ReactJS](https://reactjs.org/)
 * [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 * [Webpack](https://webpack.js.org)
+
+### Instructions:
+
+After clone this repository, run `npm install` for install dependencies.
+
+Then, run `npm run dev` and open `index.html` in your favourite browser.
